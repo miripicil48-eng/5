@@ -1,0 +1,17 @@
+{
+"name": "Raspa y Gana",
+"short_name": "Raspa",
+"start_url": "index.html",
+"display": "standalone",
+"orientation": "landscape",
+"background_color": "#111111",
+"theme_color": "#111111",
+
+"icons": [
+    {
+    "src": "icono1.jpeg",
+    "sizes": "192x192",
+    "type": "image/jpeg"
+    }
+  ]
+}
